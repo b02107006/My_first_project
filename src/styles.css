@@ -1,0 +1,62 @@
+body {
+  background-color: #ffffff;
+  place-items: center;
+  font-family: "Alumni Sans Pinstripe", sans-serif;
+}
+
+input {
+  text-align: center;
+  width: 15rem;
+}
+.city {
+  display: block;
+  margin-top: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 18rem;
+}
+
+section {
+  margin-top: 1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  max-width: 100%;
+  text-align: center;
+  align-items: center;
+}
+
+.first-sec:hover {
+  background-color: #9fe0fa;
+  border-radius: 15px 15px 15px 15px;
+}
+.second-sec:hover {
+  background-color: #9fe0fa;
+  border-radius: 15px 15px 15px 15px;
+}
+.third-sec:hover {
+  background-color: #9fe0fa;
+  border-radius: 15px 15px 15px 15px;
+}
+
+.deg {
+  font-size: small;
+  position: relative;
+  top: -1.5rem;
+  left: 0.5rem;
+}
+
+.rowOne {
+  font-size: 1rem;
+  font-weight: bold;
+  color: black;
+}
+.rowTwo {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+}
+.rowThree {
+  font-size: 1rem;
+  font-weight: bold;
+  color: black;
+}
